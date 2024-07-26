@@ -18,7 +18,7 @@ I often get asked about what software or hardware I use, so this page will serve
 ## Editor + Terminal
 
 - [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
+- Sidekick is my main browser
 - iTerm2 is my terminal
 
 ## Desktop Apps
